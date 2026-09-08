@@ -1,0 +1,4 @@
+# Python 3.8+ compatible runtime dependencies
+aiohttp>=3.8,<3.10
+aiohttp-socks>=0.8,<0.9
+tqdm>=4.64,<5

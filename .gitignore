@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+
+# Runtime artifacts produced by proxy_checker.py
+proxy.txt
+proxy_checker.log
+proxy_checker.log.*
